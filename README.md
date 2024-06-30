@@ -36,4 +36,18 @@ SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
 npm install
 ```
 
+### Usage
+General Assistance
+Ask SolDEV AI general questions about Solana development and get quick answers. Use the interface to input your questions and receive detailed responses.
+
+### Code Generation
+Input your intent and pseudo code, and let SolDEV AI generate the corresponding Solana smart contract code for you.
+
+### Code Auditing
+Submit your smart contract code for auditing. SolDEV AI will scan for vulnerabilities and suggest optimizations to enhance security and performance.
+
+### Transaction Translation
+Provide a transaction hash or smart contract address to translate on-chain transactions into human-readable form. Understand the details of the transactions easily.
+
+
 
