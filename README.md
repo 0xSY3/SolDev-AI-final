@@ -26,3 +26,14 @@ Follow these steps to get started with SolDEV AI:
 git clone https://github.com/yourusername/soldev-ai.git
 cd soldev-ai
 ```
+### Configure Environment Variables
+```
+API_KEY=your_openai_api_key
+SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
+```
+### Install Dependencies
+```
+npm install
+```
+
+
