@@ -1,13 +1,14 @@
-# SolDEV AI
+# SolDEV AI 
 
-Welcome to SolDEV AI! This is an all-in-one toolkit designed for Solana developers. SolDEV AI leverages AI to simplify and accelerate Solana development, offering features such as code generation, code auditing, general assistance, and transaction translation.
+Welcome to SolDEV AI! This all-in-one toolkit is designed to simplify and accelerate Solana development. By leveraging AI, SolDEV AI offers powerful features such as code generation, code auditing, general assistance, and transaction translation.
 
 ## Features
 
-1. **General Assistance**: Get quick and accurate answers to your Solana development questions.
-2. **Code Generation**: Generate Solana smart contract code from intent and pseudo code.
+1. **General Assistance**: Receive quick and accurate answers to your Solana development questions.
+2. **Code Generation**: Automatically generate Solana smart contract code from your intent and pseudo code.
 3. **Code Auditing**: Scan your smart contracts for vulnerabilities and optimize them.
 4. **Transaction Translation**: Translate on-chain transactions into human-readable form by providing a transaction hash or smart contract address.
+
 
 ## Installation
 
