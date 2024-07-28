@@ -49,6 +49,3 @@ Submit your smart contract code for auditing. SolDEV AI will scan for vulnerabil
 
 ### Transaction Translation
 Provide a transaction hash or smart contract address to translate on-chain transactions into human-readable form. Understand the details of the transactions easily.
-
-
-
